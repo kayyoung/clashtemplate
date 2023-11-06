@@ -1,0 +1,2 @@
+# clashtemplate
+clash rule template
